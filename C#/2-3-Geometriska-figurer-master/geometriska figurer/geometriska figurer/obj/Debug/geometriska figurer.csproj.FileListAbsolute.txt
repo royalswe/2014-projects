@@ -1,0 +1,6 @@
+c:\users\roy\documents\visual studio 2013\Projects\geometriska figurer\geometriska figurer\bin\Debug\geometriska figurer.exe.config
+C:\Users\roy\Documents\Visual Studio 2013\Projects\geometriska figurer\geometriska figurer\obj\Debug\geometriska figurer.csprojResolveAssemblyReference.cache
+C:\Users\roy\Documents\Visual Studio 2013\Projects\geometriska figurer\geometriska figurer\bin\Debug\geometriska figurer.exe
+C:\Users\roy\Documents\Visual Studio 2013\Projects\geometriska figurer\geometriska figurer\bin\Debug\geometriska figurer.pdb
+C:\Users\roy\Documents\Visual Studio 2013\Projects\geometriska figurer\geometriska figurer\obj\Debug\geometriska figurer.exe
+C:\Users\roy\Documents\Visual Studio 2013\Projects\geometriska figurer\geometriska figurer\obj\Debug\geometriska figurer.pdb

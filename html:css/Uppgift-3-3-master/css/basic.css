@@ -1,0 +1,121 @@
+/* Denna fil får du editera för att lösa uppgiften. Du får INTE ändra i html-filen. */
+body{
+    font-family: Verdana, "Times New Roman";
+    font-size: 9px;
+    background-color:#FCFAF4;
+    -webkit-font-smoothing: antialiased;
+}
+a:link, a:visited{
+    color:#898374;
+    font-family: Verdana
+}
+ul{
+    list-style:none;
+}
+#container{
+    border:1px solid #E2DFD2;
+    margin: 0 auto;
+    width: 600px;
+    background-color:#EAE7D2;
+}
+#topbar{
+    background-color:#51473D;
+    text-align: right;
+    color:#eae7d2;
+    padding-bottom: 4px;
+    padding-top: 4px;
+    font-style: italic;
+}
+#menu{
+    background: url(pics/coffey.jpg) no-repeat;
+    background-color:#51473D;
+    height: 236px;
+    position: relative;
+}
+#menu > a:link{
+    display:none;
+}
+#menu ul{
+    margin: -1px;
+    margin-left: 10px;
+    padding: 0;
+    overflow: hidden;
+    bottom: 0;
+    position: absolute;
+    text-align: center;
+    text-transform: capitalize;
+}
+#menu li{
+    float: left;
+    padding: 1px;
+}
+#menu a {
+    display: block;
+    font-size: 12px;
+    padding: 8px 21px 8px 21px;
+    background-color: #797066;
+    color: #EAEACC;
+    border-top: 1px solid #817970;
+    text-decoration:none;
+}
+#menu .active a{
+    background-color:#EAE7D2;
+    color:#8C817B;
+}
+#menu a:hover{
+    background-color:#9C9084;
+}
+h2, h1{
+    font-family: "Times New Roman";
+}
+h2{
+    font-size:small;
+    padding-top: 50px;
+    line-height: 0;
+}
+#content{
+    border:1px #E2DFD2;
+    min-height:100%;
+    color:#797066;
+    margin-top: 15px;
+}
+#maincontent h1{
+    font-size: 30px;
+    margin: 0;
+    margin-bottom: 10px;
+}
+#maincontent{
+    padding: 10px;
+    padding-bottom: 0;
+    float: left;
+    width: 348px;
+}
+#maincontent p{
+    font-size: 13px;
+    line-height: 1.6;
+}
+#subcontent{
+    border-left: 1px dashed #BFBFBF;
+    padding: 10px 17px 0px 17px;
+    width: 195px;
+    float: right;
+}
+#subcontent ul{
+    padding: 0;
+    font-size: small;
+    line-height: 1.5;
+}
+#subcontent p{
+    line-height: 2.0;
+}
+#bottomcontent{
+    background-color:#EAE7D2;
+    font-style: italic;
+    padding: 10px;
+    padding-top: 0px;
+    display: inline-block;
+}
+img{
+    float:left;
+    padding-right: 5px;
+}

@@ -1,0 +1,110 @@
+
+#content{
+    background-image: url(pics/apple.jpg);
+    height:640px;
+    width:1024px;
+}
+#mainFooter{
+    border:1px solid #000;
+    height:50px;
+    background-color: rgba(0,0,0, 0.4);
+}
+#mainFooter img:hover{
+    transform: scale(1.15);
+    transition: transform .25s ease;
+}
+#mainFooter img{
+    width: 45px;
+    margin: 4px;
+}
+.popupFooter{
+    width: 100%;
+    height: 20px;
+    background: -webkit-gradient(linear, 0 0, 0 100%, from(#fdfdfd), to(#b2b2b2));
+    background: -webkit-linear-gradient(#fdfdfd, #b2b2b2);
+    background: -moz-linear-gradient(#fdfdfd, #b2b2b2);
+    background: -o-linear-gradient(#fdfdfd, #b2b2b2);
+    background: linear-gradient(#fdfdfd, #b2b2b2);
+}
+.popupBody{
+    text-align: center;
+    height: 330px;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+.imgContainer{
+    width:75px;
+    height:50px;
+    background-color:#ccc;
+    padding:5px;
+    margin:5px;
+    float:left;
+}
+.imgContainer img{
+    max-width: 75px;
+    max-height: 50px;
+}
+.popupHeader{
+    width: 100%;
+    height: 30px;
+    background: -webkit-gradient(linear, 0 0, 0 100%, from(#fdfdfd), to(#b2b2b2));
+    background: -webkit-linear-gradient(#fdfdfd, #b2b2b2);
+    background: -moz-linear-gradient(#fdfdfd, #b2b2b2);
+    background: -o-linear-gradient(#fdfdfd, #b2b2b2);
+    background: linear-gradient(#fdfdfd, #b2b2b2);
+    -webkit-border-top-left-radius: 5px;
+    border-top-left-radius: 5px;
+    -webkit-border-top-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.popupHeader img{
+    margin-top:4px;
+    margin-left:4px;
+    width:22px;
+    height:22px;
+}
+.popupHeader p{
+    display: inline;
+    top: -8px;
+    margin-left:4px;
+    text-shadow: #eee 1px 1px 0;
+    position: absolute;
+}
+.popupWindow{
+    width: 304px;
+    position:absolute;
+    background-color: #536D9E;
+    -webkit-border-top-left-radius: 10px;
+    border-top-left-radius: 10px;
+    -webkit-border-top-right-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.closeImg{
+    float:right;
+}
+.rssFeed p{
+    color:white;
+    font-family:sans-serif;
+}
+.rssFeed h2{
+    background-color: antiquewhite;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+.rssFeed a{
+    color:antiquewhite;
+}
+
+/*Memory*/
+table{
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 40px;
+	-webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+.icons{
+	padding:15px;
+}
+/*Memory End*/

@@ -1,0 +1,39 @@
+﻿body {
+}
+h1 {
+    font-family: sans-serif;
+}
+#grayBorder {
+    width:80%;
+    height:30px;
+    background-color:#D5D5D5;
+    margin-bottom: 10px;
+}
+.red{
+    color:red;
+}
+#TempTable {
+    float: right;
+    margin-right: 70%;
+    border: 1px solid #000;
+    border-collapse:collapse;
+}
+th {
+    width:100px;
+    color:#ffffff;
+    background-color:#000;
+}
+td {
+    text-align:center;
+}
+#TempTable tr:nth-child(even) {
+    background-color: #D5D5D5;
+}
+input[type="submit"] {
+    width: 175px;
+}
+br {
+    content: "" !important;
+    display: block !important;
+    margin-top: 5px !important;
+}

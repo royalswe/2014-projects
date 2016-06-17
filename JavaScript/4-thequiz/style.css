@@ -1,0 +1,17 @@
+body{
+    background-color: #A2CCE5;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    font-family: cursive;
+}
+#questions{
+    text-align: center;
+    padding: 5px;
+}
+form{
+    text-align: center;
+}
+#message{
+    text-align: center;
+}

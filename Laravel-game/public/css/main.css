@@ -1,0 +1,186 @@
+/* ==== css for Navigation menu and buttons ===== */
+
+.gameNav ul {
+    margin: 0;
+    padding: 0;
+}
+.gameNav li span {
+    display: block;
+}
+.gameNav a {
+    display: block;
+    color: rgba(249, 249, 249, .9);
+    text-decoration: none;
+}
+/* For screen bigger than 800px */
+@media (min-width: 50em) {
+
+    /* Transforms the list into a horizontal navigation */
+    .gameNav li {
+        float: left;
+        width: 16.66666666666667%;
+        text-align: center;
+        -webkit-transition: border .5s;
+        -moz-transition: border .5s;
+        -o-transition: border .5s;
+        -ms-transition: border .5s;
+        transition: border .5s;
+    }
+    .gameNav a {
+        display: block;
+        width: auto;
+    }
+    .icon + span {
+        margin-top: 0.8em;
+    }
+}
+/* CSS specific to the 2x3 columns version */
+@media (max-width: 49.938em) {
+
+    /* Creating the 2 column layout using floating elements once again */
+    .gameNav li {
+        display: block;
+        float: left;
+        width: 50%;
+    }
+    /* Adding some padding to make the elements look nicer*/
+    .gameNav a {
+        padding: 0.8em;
+    }
+    /* Displaying the icons on the left, and the text on the right side using inlin-block*/
+    .gameNav li span,
+    .gameNav li span.icon {
+        display: inline-block;
+    }
+    .gameNav li span.icon {
+        width: 50%;
+    }
+    .gameNav li .icon + span {
+        font-size: 1em;
+    }
+    .icon + span {
+        position: relative;
+        top: -0.2em;
+    }
+}
+.ShopItem img{
+    float: left;
+    width: 40px;
+}
+.ShopItem{
+    line-height: 0;
+    padding: 1em;
+    font-weight: bold;
+
+}
+.ShopItem p{
+    margin-bottom: 4px;
+    margin-top: 10px;
+    font-family: fantasy;
+}
+
+.btn-shop, .gameNav li  {
+    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #7d5d3b), color-stop(1, #634b30));
+    background:-moz-linear-gradient(top, #7d5d3b 5%, #634b30 100%);
+    background:-webkit-linear-gradient(top, #7d5d3b 5%, #634b30 100%);
+    background:-o-linear-gradient(top, #7d5d3b 5%, #634b30 100%);
+    background:-ms-linear-gradient(top, #7d5d3b 5%, #634b30 100%);
+    background:linear-gradient(to bottom, #7d5d3b 5%, #634b30 100%);
+    background-color:#7d5d3b;
+    -moz-border-radius:5px;
+    -webkit-border-radius:5px;
+    border-radius:5px;
+    border:4px solid #969696;
+    color:#ffffff;
+    font-family:Verdana;
+    font-size:13px;
+    padding:6px 5px;
+    text-decoration:none;
+}
+.btn-shop:hover, .gameNav ul li a:hover, .gameNav ul li a:active, .gameNav ul li a:focus {
+    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #634b30), color-stop(1, #7d5d3b));
+    background:-moz-linear-gradient(top, #634b30 5%, #7d5d3b 100%);
+    background:-webkit-linear-gradient(top, #634b30 5%, #7d5d3b 100%);
+    background:-o-linear-gradient(top, #634b30 5%, #7d5d3b 100%);
+    background:-ms-linear-gradient(top, #634b30 5%, #7d5d3b 100%);
+    background:linear-gradient(to bottom, #634b30 5%, #7d5d3b 100%);
+    background-color:#634b30;
+    color: #ffffff;
+    border-color: #ffcc00;
+}
+/* ==== css for Arena ===== */
+.progress{
+    position: relative;
+    text-align: center;
+    -webkit-transition: width 1.5s ease-in-out;
+    transition: width 1.5s ease-in-out;
+}
+.progress-text{
+    position: absolute;
+    display: block;
+    width: 100%;
+    color: black;
+}
+.list-group-arena{
+    min-width: 12em;
+}
+/* ==== css for Map ===== */
+#bottom{
+    background-color: #0D6D8D;
+    height: 100vh;      /* full height of the content box */
+}
+#mapDiv{
+    background-image: url("../img/stocks.jpg");
+    background-repeat: repeat;
+    text-align: center;
+}
+/* ==== css for User ===== */
+.list-group-user{
+    width: 20em;
+    float: left;
+    margin-left: 2%;
+}
+.equipment-img{
+    width: 4em;
+}
+
+.character-img{
+    width: 18em;
+    float: left;
+}
+.itemType{
+    font-weight: bold;
+    color: #0A9426;
+}
+.userGold{
+    float: right;
+    background: gold;
+}
+
+@media (max-width: 800px) {
+    .character-img{
+        float: none;
+        width: 28%;
+    }
+    .equipment-stack{
+        float: left;
+        display: flex;
+        height: 3em;
+    }
+}
+/* ==== css for bootstrap ===== */
+.col-sm-4{
+    float: left;
+    width: 33.33333333%;
+}
+.center-class{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.valhall-loggo{
+    position: absolute;
+    margin-left: 36%;
+    margin-top: 0.5%;
+}

@@ -1,0 +1,24 @@
+1DV404
+======
+
+Laboration 2
+
+Tidslogg:
+
+27 nov 2014		15:30-	16:00		Läsa igenom uppgifterna.
+27 nov 2014		16:00-	16:30		Planera uppgift 2
+27 nov 2014		16:30-	19:30		Förstå uppgift 2 och skriva en grov vision.
+27 nov 2014		19:30-	18:30		Planera uppgift 3
+02 dec 2014		10:30-	14:30		Försöka förstå vad uppgifterna går ut på och har 							
+						stannat upp för att jag inte förstår riktigt.
+						Fortsatte på uppgift 3 
+03 dec 2014		09:30-	16:30		Planera  och skriva uppgift 4
+03 dec 2014		17:30-	20:30		Kollat runt efter information
+04 dec 2014		09:30-	11:30		Jämförde varandras uppgifter och gav 								
+						reflektioner. Implementerade reflektionerna.
+04 dec 2014		12:30-	15:30		Försökte förstå uppgift 7 och sökte runt
+05 dec 2014		09:00-	12:00		Slutförde uppgift 7
+05 dec 2014		13:00-	14:30		Slutförde uppgift 8
+07 dec 2014		13:00-	14:30		Återkoppling uppgift 7.
+
+Totalt: 32 timmar

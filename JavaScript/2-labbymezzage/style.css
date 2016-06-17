@@ -1,0 +1,39 @@
+body{
+    background-color: #A2CCE5;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+}
+#textInput{
+    padding: 5px;
+    border: 1px solid #000;
+    background-color: #fff;
+}
+#count{
+    float: right;
+    font-family: monospace;
+}
+textarea{
+    width:481px;
+    min-height:100px;
+    background-color:#FFF0D5;
+}
+.pText{
+    color: #777;
+    width: 400px;
+    font-family: sans-serif;
+    padding: 5px;
+}
+.pTime{
+    text-align: right;
+    font-family: monospace;
+}
+.div{
+    background-color: #ADEAB0;
+}
+.delete{
+    float: right;
+}
+.clock{
+    float: right;
+}

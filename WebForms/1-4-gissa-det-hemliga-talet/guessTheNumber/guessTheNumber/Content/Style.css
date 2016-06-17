@@ -1,0 +1,17 @@
+﻿body {
+}
+.red{
+    color:red;
+}
+div{
+    padding-bottom: 10px;
+}
+#GuessLabel{
+    color:#b1b1b1;
+}
+#GuessLabel p:nth-last-child(1) {
+    color: #000000;
+} 
+#GuessLabel p{
+    display:inline;
+}

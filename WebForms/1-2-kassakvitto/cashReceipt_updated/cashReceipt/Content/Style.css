@@ -1,0 +1,24 @@
+﻿body {
+}
+h1{
+    font-family:Arial;
+}
+.red{
+    color: red;
+}
+hr{
+    border: 1px dashed #000;
+}
+.receipt{
+    border: 2px solid #000;
+    width: 200px;
+    background-color:#F0F0F0;
+    padding: 10px;
+    font-family: sans-serif;
+}
+#countSpan{
+    float:right;
+}
+.receiptText{
+    text-align: center;
+}

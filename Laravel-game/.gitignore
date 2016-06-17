@@ -1,0 +1,5 @@
+/.idea
+.idea
+.env
+/config/mail.php
+/config/database.php

@@ -1,0 +1,42 @@
+﻿body {
+    font-family: cursive;
+}
+#LargeImage{
+    width:480px;
+    height:340px;
+}
+ul{
+    list-style-type: none;
+    display: -webkit-box;
+}
+.thumbs{
+    margin:5px;
+}
+fieldset{
+    width: 450px;
+}
+#savedImg{
+    border: 1px solid green;
+    width: 450px;
+    padding: 15px;
+    position:relative;
+    background-color: lightgreen;
+    margin-bottom: 10px;
+}
+#StatusField{
+    border: 1px solid rgb(199, 39, 39);
+    width: 400px;
+    padding: 15px;
+    background-color: rgb(255, 186, 186);
+}
+#ImageButton{
+    position: absolute;
+    top: 2px;
+    right: 2px;
+}
+.red{
+    color:red;
+}
+.validationSummaryCss{
+    color:red;
+}

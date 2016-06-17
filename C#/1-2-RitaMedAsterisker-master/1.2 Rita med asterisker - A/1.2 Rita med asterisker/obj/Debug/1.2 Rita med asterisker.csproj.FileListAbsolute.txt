@@ -1,0 +1,6 @@
+c:\users\roy\documents\visual studio 2013\Projects\1.2 Rita med asterisker\1.2 Rita med asterisker\bin\Debug\1.2 Rita med asterisker.exe.config
+c:\users\roy\documents\visual studio 2013\Projects\1.2 Rita med asterisker\1.2 Rita med asterisker\bin\Debug\1.2 Rita med asterisker.exe
+c:\users\roy\documents\visual studio 2013\Projects\1.2 Rita med asterisker\1.2 Rita med asterisker\bin\Debug\1.2 Rita med asterisker.pdb
+c:\users\roy\documents\visual studio 2013\Projects\1.2 Rita med asterisker\1.2 Rita med asterisker\obj\Debug\1.2 Rita med asterisker.csprojResolveAssemblyReference.cache
+c:\users\roy\documents\visual studio 2013\Projects\1.2 Rita med asterisker\1.2 Rita med asterisker\obj\Debug\1.2 Rita med asterisker.exe
+c:\users\roy\documents\visual studio 2013\Projects\1.2 Rita med asterisker\1.2 Rita med asterisker\obj\Debug\1.2 Rita med asterisker.pdb

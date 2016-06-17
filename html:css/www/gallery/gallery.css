@@ -1,0 +1,74 @@
+@font-face {
+  font-family: 'pretendo';
+  src: url('webfontkit/pretendo-webfont.woff') format('woff'), /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+       url('webfontkit/pretendo-webfont.ttf') format('truetype'); /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
+}
+body {
+    padding: 50px;
+    background-color:#EDEDED;
+}
+img {
+    width:200px;
+    border: 1px solid #BFBFBF;
+}
+a:after {                
+    content: attr(title);
+    color: red;
+    font-size: 15px;
+    font-family: pretendo;
+    display: block;
+    text-align: center;
+}
+a:nth-child(4n):after { /* Give blue text and smal font on every fourth title */
+    color: blue;
+    font-size: 12px;
+}
+a {
+	float: left;
+	padding: 10px 10px 25px 10px;
+    background: #fff;
+	text-decoration: none;
+	border: 1px solid #BFBFBF;
+	z-index: 2;
+	position: relative;
+	-webkit-box-shadow: 2px 2px 4px rgba(0,0, 0, 0.3);
+	-moz-box-shadow: 2px 2px 4px rgba(0,0, 0, 0.3);
+	box-shadow: 2px 2px 4px rgba(0,0, 0, 0.3);
+	-webkit-transition: all 0.4s ease-in;
+	-moz-transition: all 0.4s ease-in;
+    -o-transition: all 0.4s ease-in;
+	transition: all 0.4s ease-in;
+    -webkit-transform: rotate(-10deg);
+    -moz-transform: rotate(-10deg);
+    -o-transform: rotate(-10deg);
+    -ms-transform: rotate(-10deg);
+    transform: rotate(-10deg);
+}
+a:nth-child(even){
+    z-index: 1;
+    -webkit-transform: rotate(4deg);
+    -moz-transform: rotate(4deg);
+    -o-transform: rotate(4deg);
+    -ms-transform: rotate(4deg);
+    transform: rotate(4deg);
+}
+a:nth-child(4n){
+    z-index: 3;
+    -webkit-transform: rotate(6deg);
+    -moz-transform: rotate(6deg);
+    -o-transform: rotate(6deg);
+    -ms-transform: rotate(6deg);
+    transform: rotate(6deg);
+}
+a:focus, a:hover, a:active{
+	z-index: 5;
+    -webkit-box-shadow: 20px 20px 30px rgba(0,0, 0, 0.3);
+	-moz-box-shadow: 20px 20px 40px rgba(0,0, 0, 0.3);
+	box-shadow: 20px 20px 30px rgba(0,0, 0, 0.3);
+	
+	-webkit-transform: rotate(0deg) scale(1.2);
+	-moz-transform: rotate(0deg) scale(1.2);
+	-o-transform: rotate(0deg) scale(1.2);
+	-ms-transform: rotate(0deg) scale(1.2);
+    transform: rotate(0deg) scale(1.2);
+}

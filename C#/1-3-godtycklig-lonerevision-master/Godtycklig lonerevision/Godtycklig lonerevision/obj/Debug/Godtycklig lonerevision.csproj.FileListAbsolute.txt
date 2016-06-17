@@ -1,0 +1,6 @@
+c:\users\roy\documents\visual studio 2013\Projects\Godtycklig lonerevision\Godtycklig lonerevision\bin\Debug\Godtycklig lonerevision.exe.config
+c:\users\roy\documents\visual studio 2013\Projects\Godtycklig lonerevision\Godtycklig lonerevision\bin\Debug\Godtycklig lonerevision.exe
+c:\users\roy\documents\visual studio 2013\Projects\Godtycklig lonerevision\Godtycklig lonerevision\bin\Debug\Godtycklig lonerevision.pdb
+c:\users\roy\documents\visual studio 2013\Projects\Godtycklig lonerevision\Godtycklig lonerevision\obj\Debug\Godtycklig lonerevision.exe
+c:\users\roy\documents\visual studio 2013\Projects\Godtycklig lonerevision\Godtycklig lonerevision\obj\Debug\Godtycklig lonerevision.pdb
+c:\users\roy\documents\visual studio 2013\Projects\Godtycklig lonerevision\Godtycklig lonerevision\obj\Debug\Godtycklig lonerevision.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\rn222cx\documents\visual studio 2013\Projects\vaxelpengar\vaxelpengar\bin\Debug\vaxelpengar.exe.config
+c:\users\rn222cx\documents\visual studio 2013\Projects\vaxelpengar\vaxelpengar\bin\Debug\vaxelpengar.exe
+c:\users\rn222cx\documents\visual studio 2013\Projects\vaxelpengar\vaxelpengar\bin\Debug\vaxelpengar.pdb
+c:\users\rn222cx\documents\visual studio 2013\Projects\vaxelpengar\vaxelpengar\obj\Debug\vaxelpengar.csprojResolveAssemblyReference.cache
+c:\users\rn222cx\documents\visual studio 2013\Projects\vaxelpengar\vaxelpengar\obj\Debug\vaxelpengar.exe
+c:\users\rn222cx\documents\visual studio 2013\Projects\vaxelpengar\vaxelpengar\obj\Debug\vaxelpengar.pdb

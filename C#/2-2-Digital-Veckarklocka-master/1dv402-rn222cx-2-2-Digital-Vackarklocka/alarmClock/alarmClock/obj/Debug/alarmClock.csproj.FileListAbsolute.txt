@@ -1,0 +1,6 @@
+c:\users\roy\documents\visual studio 2013\Projects\alarmClock\alarmClock\bin\Debug\alarmClock.exe.config
+c:\users\roy\documents\visual studio 2013\Projects\alarmClock\alarmClock\obj\Debug\alarmClock.csprojResolveAssemblyReference.cache
+C:\Users\roy\Documents\Visual Studio 2013\Projects\alarmClock\alarmClock\bin\Debug\alarmClock.exe
+C:\Users\roy\Documents\Visual Studio 2013\Projects\alarmClock\alarmClock\bin\Debug\alarmClock.pdb
+C:\Users\roy\Documents\Visual Studio 2013\Projects\alarmClock\alarmClock\obj\Debug\alarmClock.exe
+C:\Users\roy\Documents\Visual Studio 2013\Projects\alarmClock\alarmClock\obj\Debug\alarmClock.pdb

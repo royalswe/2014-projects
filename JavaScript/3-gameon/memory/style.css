@@ -1,0 +1,25 @@
+body{
+	background: url(pics/bg.png) no-repeat;
+}
+#memoryBoard{
+
+}
+table{
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 40px;
+}
+.icons{
+	padding:15px;
+}
+.count{
+	text-align: center;
+	height: 10px;
+}
+#clock{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	text-align: center;
+}

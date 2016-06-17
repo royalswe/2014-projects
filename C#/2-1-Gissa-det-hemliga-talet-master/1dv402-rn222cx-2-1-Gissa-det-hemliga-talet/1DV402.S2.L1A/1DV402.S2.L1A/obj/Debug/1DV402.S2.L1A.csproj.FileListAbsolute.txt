@@ -1,0 +1,6 @@
+C:\Users\roy\Documents\Visual Studio 2013\Projects\1DV402.S2.L1A\1DV402.S2.L1A\bin\Debug\1DV402.S2.L1A.exe.config
+C:\Users\roy\Documents\Visual Studio 2013\Projects\1DV402.S2.L1A\1DV402.S2.L1A\obj\Debug\1DV402.S2.L1A.csprojResolveAssemblyReference.cache
+C:\Users\roy\Documents\Visual Studio 2013\Projects\1DV402.S2.L1A\1DV402.S2.L1A\bin\Debug\1DV402.S2.L1A.exe
+C:\Users\roy\Documents\Visual Studio 2013\Projects\1DV402.S2.L1A\1DV402.S2.L1A\bin\Debug\1DV402.S2.L1A.pdb
+C:\Users\roy\Documents\Visual Studio 2013\Projects\1DV402.S2.L1A\1DV402.S2.L1A\obj\Debug\1DV402.S2.L1A.exe
+C:\Users\roy\Documents\Visual Studio 2013\Projects\1DV402.S2.L1A\1DV402.S2.L1A\obj\Debug\1DV402.S2.L1A.pdb

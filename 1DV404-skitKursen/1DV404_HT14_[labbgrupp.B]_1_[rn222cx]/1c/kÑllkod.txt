@@ -1,0 +1,42 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace test
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+
+
+       ////////////////////////// 1.C //////////////////////////////////
+
+            int maxvalue = 0;
+            int secondhigestnum = 0;
+
+            Console.Write("ange antalet heltal att beräkna: ");
+            int numofinputs = int.Parse(Console.ReadLine());
+
+            for (int i = 0; i < numofinputs; i++)
+            {
+                Console.Write("mata in {0} heltal: ", numofinputs);
+                int input = int.Parse(Console.ReadLine());
+
+                if (input >= maxvalue)
+                {
+                    secondhigestnum = maxvalue;
+                    maxvalue = input;
+                }
+
+            }
+
+            Console.WriteLine("det näst största talet är: {0}", secondhigestnum);
+            Console.ReadLine();
+
+        }
+    }
+}
+
