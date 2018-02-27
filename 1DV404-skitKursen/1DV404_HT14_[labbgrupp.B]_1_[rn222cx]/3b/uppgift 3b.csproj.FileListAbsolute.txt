@@ -1,5 +1,0 @@
-C:\Users\roy\Desktop\Tester\1DV404_HT14_[labgrupp.B]_[rn222cx]\uppgift 3b\uppgift 3b\bin\Release\uppgift 3b.exe.config
-C:\Users\roy\Desktop\Tester\1DV404_HT14_[labgrupp.B]_[rn222cx]\uppgift 3b\uppgift 3b\bin\Release\uppgift 3b.exe
-C:\Users\roy\Desktop\Tester\1DV404_HT14_[labgrupp.B]_[rn222cx]\uppgift 3b\uppgift 3b\bin\Release\uppgift 3b.pdb
-C:\Users\roy\Desktop\Tester\1DV404_HT14_[labgrupp.B]_[rn222cx]\uppgift 3b\uppgift 3b\obj\Release\uppgift 3b.exe
-C:\Users\roy\Desktop\Tester\1DV404_HT14_[labgrupp.B]_[rn222cx]\uppgift 3b\uppgift 3b\obj\Release\uppgift 3b.pdb

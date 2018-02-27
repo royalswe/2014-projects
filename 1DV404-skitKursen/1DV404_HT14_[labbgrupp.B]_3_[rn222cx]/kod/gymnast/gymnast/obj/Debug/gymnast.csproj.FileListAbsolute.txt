@@ -1,9 +1,0 @@
-c:\users\rn222cx\documents\visual studio 2013\Projects\gymnast\gymnast\bin\Debug\gymnast.exe.config
-c:\users\rn222cx\documents\visual studio 2013\Projects\gymnast\gymnast\obj\Debug\gymnast.csprojResolveAssemblyReference.cache
-c:\users\rn222cx\documents\visual studio 2013\Projects\gymnast\gymnast\bin\Debug\gymnast.exe
-c:\users\rn222cx\documents\visual studio 2013\Projects\gymnast\gymnast\bin\Debug\gymnast.pdb
-c:\users\rn222cx\documents\visual studio 2013\Projects\gymnast\gymnast\obj\Debug\gymnast.exe
-c:\users\rn222cx\documents\visual studio 2013\Projects\gymnast\gymnast\obj\Debug\gymnast.pdb
-C:\Users\rn222cx\Desktop\labb3\gymnast\gymnast\bin\Debug\gymnast.exe.config
-C:\Users\rn222cx\Desktop\labb3\gymnast\gymnast\obj\Debug\gymnast.exe
-C:\Users\rn222cx\Desktop\labb3\gymnast\gymnast\obj\Debug\gymnast.pdb
